@@ -8,7 +8,7 @@ Java 8, jUnit, JEE, JBOSS EAP, SOAP/REST, XML, SQL, Oracle, Flyway, JDBC, Wiremo
 Javascript, jQuery, ColdFusion, MS Visual Studio, C#.NET, VB.NET, IIS, SQL Server.
 
 ## Knowledge Of
-Git, TDD, Cucumber, Selenium, Cypress, Jenkins Pipeline, Hibernate/JPA, JMS, React.js, Docker, Mongodb, EHCache, SAML, OAUTH2, cloud platforms (AWS, Azure), design patterns.
+Git, TDD, Cucumber, Selenium, Cypress, Jenkins Pipeline, Hibernate/JPA, JMS, React.js, Docker, PHP, MySQL, Mongodb, EHCache, SAML, OAUTH2, cloud platforms (AWS, Azure), design patterns.
 
 ## Employment History 
 * May/2006 – present. IT Specialist, NHS Tayside, Dundee, UK.
