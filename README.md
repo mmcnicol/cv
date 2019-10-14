@@ -1,7 +1,7 @@
 
 # Matthew McNicol
 
-## Key Skills
+## Key Skills (3+ years of development expertise)
 Java 8, jUnit, JEE, JBOSS EAP, SOAP/REST, XML, SQL, Oracle, Flyway, JDBC, Wiremock, Maven, Jenkins, Nexus, Subversion, Jira, Confluence, Fisheye (for code reviews).
 
 ## Secondary Skills
