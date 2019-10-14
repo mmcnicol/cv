@@ -13,7 +13,6 @@ Git, TDD, Cucumber, Selenium, Cypress, Jenkins Pipeline, Hibernate/JPA, React.js
 ## Employment History 
 * May/2006 – present. IT Specialist, NHS Tayside, Dundee, UK.
 * 2004 (3 month contract + 6 month contract). Project Administrator, Siemens Business Services, Edinburgh, UK.
-* 2003. Freelance.
 * 3 month travel break.
 * 2001 (6 months). Systems Administrator, Digital Bridges, Fife, UK.
 * 2000-2001 (6 months). Analyst Programmer, Edinburgh University, UK.
