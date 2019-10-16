@@ -2,18 +2,18 @@
 # Matthew McNicol
 
 ## Key Skills (3+ years of development expertise)
-Java 8, jUnit, JEE, JBOSS EAP, SOAP/REST, XML, SQL, Oracle, Flyway, JDBC, Wiremock, Maven, Jenkins, Nexus, Subversion, Jira, Confluence, Fisheye (for code reviews).
+Java 8, JUnit, JEE, JBOSS EAP, SOAP/XML, REST/JSON, SQL, Oracle, Flyway, JDBC, Wiremock, Maven, Jenkins, Nexus, Subversion, Netbeans, Jira, Confluence, Fisheye (for code reviews).
 
 ## Secondary Skills
-Javascript, jQuery, ColdFusion, MS Visual Studio, C#.NET, VB.NET, IIS, SQL Server.
+Javascript, jQuery, HTML, CSS, ColdFusion, Apache, MS Visual Studio, C#.NET, VB.NET, IIS, SQL Server, windows server, Solarix UNIX command line.
 
 ## Knowledge Of
-Git, TDD, Cucumber, Selenium, Cypress, Jenkins Pipeline, Hibernate/JPA, JMS, React.js, Docker, PHP, MySQL, Mongodb, EHCache, SAML, OAUTH2, cloud platforms (AWS, Azure), design patterns.
+Git, TDD, BDD, Cucumber, Selenium, Cypress, Jenkins Pipeline, Hibernate/JPA, JMS, React.js, Docker, PHP, MySQL, Mongodb, EHCache, SAML, OAUTH2, cloud platforms (AWS, Azure), design patterns, Linux command line.
 
 ## Employment History 
 * May/2006 – present. IT Specialist, NHS Tayside, Dundee, UK.
 * 2004 (3 month contract + 6 month contract). Project Administrator, Siemens Business Services, Edinburgh, UK.
-* 3 month travel break.
+* travel break.
 * 2001 (6 months). Systems Administrator, Digital Bridges, Fife, UK.
 * 2000-2001 (6 months). Analyst Programmer, Edinburgh University, UK.
 * 1999-2000 (12 months). Analyst Programmer, Great West Life & Annuity, Denver, Colorado, 
