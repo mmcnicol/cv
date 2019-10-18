@@ -1,6 +1,9 @@
 
 # Matthew McNicol
 
+## target role
+Mid-Level Backend Java Developer
+
 ## Key Skills (3+ years of development expertise)
 Java 8, JUnit, JavaEE, JBOSS EAP, SOAP/XML, REST/JSON, SQL, Oracle, Flyway, JDBC, Wiremock, Maven, Jenkins, Nexus, Subversion, Netbeans, Jira, Confluence, Fisheye (for code reviews).
 
