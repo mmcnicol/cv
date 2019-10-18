@@ -1,7 +1,7 @@
 
 # Matthew McNicol
 
-## target role
+## Target Role
 Mid-Level Backend Java Developer
 
 ## Key Skills (3+ years of development expertise)
