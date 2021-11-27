@@ -6,25 +6,26 @@
 * Java
 
 ## Key Skills (3+ years of development expertise)
-* Java, JUnit, Java EE, JBOSS EAP, JDBC, SOAP/XML, REST/JSON.
-* Subversion, Git, Docker, Maven, Jenkins, Jenkins Pipeline, Nexus.
-* Javascript, jQuery, HTML, CSS.
-* SQL, Oracle, SQL Server, Flyway.
-* IntelliJ, Netbeans.
-* Windows, Unix/Linux.
-* Jira, Confluence, Crucible/Fisheye (for code reviews).
+* Java, Java EE, JBOSS EAP.
 
 ## Knowledge Of
-* Golang, React.js, Groovy, PHP.
-* MySQL, Mongodb.
+* Golang, React.js, Groovy, PHP, C/C++.
+* Jira, Confluence, Crucible/Fisheye (for code reviews).
+* Windows, Unix/Linux.
+* Maven, REST/JSON, SOAP/XML, JDBC, JSF, Hibernate, JPA.
+* IntelliJ, Netbeans.
+* Git, Subversion.
+* SQL, Flyway.
+* Oracle, SQL Server, MySQL, Mongodb.
+* Docker, Jenkins, Jenkins Pipeline, Nexus.
+* Javascript, jQuery, HTML, CSS.
 * Agile, Kanban, SCRUM.
-* TDD, BDD, Selenium, Cypress.
-* Hibernate, JPA.
+* JUnit, TDD, BDD, Selenium, Cypress.
 * JMS, RabbitMQ, Kafka.
 
 ## Employment History 
-* Oct/2020-present. Java Developer (Freelance, Remote, Part-time), WedaCon Informationstechnologien GmbH, Münster, Germany.
-* May/2006-present. IT Specialist (Full-time), NHS Tayside, Dundee, UK.
+* 2006-present. IT Specialist (Full-time), NHS Tayside, Dundee, UK.
+* Oct/2020-May/2021 (8 months). Java Developer (Freelance, Remote, Part-time), WedaCon Informationstechnologien GmbH, Münster, Germany.
 * travel/study break.
 * 2001 (6 months). Systems Administrator (Full-time), Digital Bridges, Fife, UK.
 * 2000-2001 (6 months). Analyst Programmer (Full-time), Edinburgh University, UK.
@@ -39,7 +40,7 @@
 * 1986-1992. High School at Madras College in St Andrews, Fife, UK.
 
 ## Training 
-* 2016-2020: use of pluralsight.com
+* 2016-present: use of pluralsight.com
 * 2016: ITIL Foundation Certificate in IT Service Management
 * 2010: APM Introductory Certificate in Project Management
 * 2003: MySQL Core Certification
