@@ -5,8 +5,8 @@
 
 | | Proficient | Has Knowledge Of |
 | --- | --- | --- |
-| Server-side  | Java, Java EE, JBOSS EAP | Golang, Nodejs, Groovy, PHP, C/C++ |
-| | REST/JSON, SOAP/XML, JDBC, JSF | Hibernate, JPA, JMS, RabbitMQ, Kafka |
+| Server-side  | Java, Java EE, JBOSS EAP | Golang, VB.Net, C#.Net, Nodejs, Groovy, PHP, C/C++ |
+| | REST/JSON, SOAP/XML, JDBC, JSF | Hibernate, JPA, JMS, RabbitMQ, Kafka, DataGrid |
 | | SQL, Flyway, Oracle, SQL Server | MySQL, Mongodb |
 | Client-side  | Javascript, jQuery, HTML, CSS | React.js |
 | Cloud | | AWS EC2 |
