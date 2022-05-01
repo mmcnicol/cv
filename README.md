@@ -29,8 +29,8 @@
 * 1995-1997 (18 months). Systems Engineer (Full-time), EDS, Newcastle Upon Tyne, UK.
 
 ## Education 
-* 2002-2005: Masters in Business Administration (Part-time). Napier University, Edinburgh, UK. Part-time. 
-* 1992-1995: BEng in Software Engineering (Full-time). Napier University, Edinburgh, UK. Full-time. 
+* 2002-2005: Masters in Business Administration (Part-time). Napier University, Edinburgh, UK. 
+* 1992-1995: BEng in Software Engineering (Full-time). Napier University, Edinburgh, UK. 
 * 1986-1992. High School at Madras College in St Andrews, Fife, UK.
 
 ## Training 
