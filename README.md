@@ -8,7 +8,7 @@
 | Server-side  | Java, Java EE, JBOSS EAP | Golang |
 | | REST/JSON, SOAP/XML | Hibernate, RabbitMQ, Kafka, DataGrid |
 | | SQL, Flyway, Oracle, SQL Server | MySQL, Mongodb |
-| Client-side  | Javascript, jQuery, HTML, CSS | React.js |
+| Client-side  | Javascript, jQuery, HTML, CSS | React |
 | Cloud | | AWS EC2 |
 | Test Automation | JUnit | TDD, BDD, Selenium, Cypress, k6 |
 | Development/Build Environment Automation | Docker | Kubernetes |
