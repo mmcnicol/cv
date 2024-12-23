@@ -13,7 +13,7 @@
 | Test Automation | JUnit | TDD, BDD, Selenium, Cypress, k6 |
 | Development/Build Environment Automation | Docker | Kubernetes |
 | Build Automation | Jenkins, Jenkins Pipeline, Nexus | |
-| Development Tools | IntelliJ, Gitlab, Bitbucket, Git, Subversion, Maven | Github, npm |
+| Development Tools | IntelliJ, Gitlab, Bitbucket, Git, Subversion, Maven, SonarCloud | Github, npm |
 | Team Collaboration | Microsoft Teams, Jira, Confluence, SCRUM | Agile, Kanban |
 | Operating Systems | Windows, Unix/Linux | |
 
