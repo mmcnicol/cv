@@ -10,10 +10,10 @@
 | | SQL, Flyway, Oracle, SQL Server | MySQL, Mongodb |
 | Client-side  | Javascript, jQuery, HTML, CSS | React |
 | Cloud | | AWS EC2 |
-| Test Automation | JUnit | TDD, BDD, Selenium, Cypress, k6 |
+| Test Automation | JUnit, Selenium | TDD, BDD, Cypress, k6 |
 | Development/Build Environment Automation | Docker | Kubernetes |
-| Build Automation | Jenkins, Jenkins Pipeline, Nexus | |
-| Development Tools | IntelliJ, Gitlab, Bitbucket, Git, Subversion, Maven, SonarCloud | Github, npm |
+| Build Automation | Jenkins | |
+| Development Tools | IntelliJ, Gitlab, Bitbucket, Git, Subversion, Maven, Nexus, SonarCloud | Github, npm |
 | Team Collaboration | Microsoft Teams, Jira, Confluence, SCRUM | Agile, Kanban |
 | Operating Systems | Windows, Unix/Linux | |
 
