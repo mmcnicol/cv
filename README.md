@@ -9,7 +9,7 @@
 | | REST/JSON, SOAP/XML | gRPC, Hibernate, RabbitMQ, Kafka, DataGrid |
 | | SQL, Flyway, Oracle, SQL Server | MySQL, Mongodb |
 | Client-side  | Javascript, HTML, CSS | React, jQuery |
-| AI | | Claude Code |
+| AI | Microsoft 365 Copilot | Claude Code |
 | Cloud | | AWS EC2 |
 | Test Automation | JUnit, Selenium | TDD, BDD, Cypress, k6 |
 | Development/Build Environment Automation | Docker | Kubernetes |
@@ -19,9 +19,14 @@
 | Operating Systems | Windows, Unix/Linux | |
 
 ## Employment History 
-* 2006-present. IT Specialist (Full-time), NHS Tayside, Dundee, UK.
-* Oct/2020-May/2021 (8 months). Java Developer (Freelance, Remote, Part-time), WedaCon Informationstechnologien GmbH, Münster, Germany.
-* travel/study break.
+* 2006-present. IT Specialist / Software Developer (Full-time), NHS Tayside, Dundee, UK.
+  Full-stack development of in-house clinical web applications. Since 2012, developer of
+  the Clinical Portal — a patient information system with 3,500+ daily user sessions across
+  hospitals and GP practices in two regions. Integrates with patient administration, document
+  store, lab reports, national emergency care summary, regional demographics, and GP practice
+  systems. Involved in two major rewrites. Includes a 6-month secondment as Technical Lead.
+* Oct/2020-May/2021 (8 months). Java Developer (Freelance, Remote, Part-time), WedaCon Informationstechnologien GmbH, Münster, Germany. Java development on an IAM system.
+* Dec/2001-Apr/2006. Career break.
 * 2001 (6 months). Systems Administrator (Full-time), Digital Bridges, Fife, UK.
 * 2000-2001 (6 months). Analyst Programmer (Full-time), Edinburgh University, UK.
 * 1999-2000 (12 months). Analyst Programmer (Full-time), Great West Life & Annuity, Denver, Colorado, USA.
@@ -39,3 +44,6 @@
 * 2016: ITIL Foundation Certificate in IT Service Management
 * 2010: APM Introductory Certificate in Project Management
 * 2003: MySQL Core Certification
+
+## Projects
+* [message-store](https://github.com/mmcnicol/message-store) — simplified message broker in Go.
