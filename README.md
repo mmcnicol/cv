@@ -19,8 +19,8 @@
 | Operating Systems | Windows, Unix/Linux | |
 
 ## Employment History 
-* 2006-present. IT Specialist / Software Developer (Full-time), NHS Tayside, Dundee, UK.
-  Full-stack development of in-house clinical web applications. Since 2012, developer of
+* 2006-present. IT Specialist / Software Developer (Full-time, hybrid since 2020), NHS Tayside, Dundee, UK.
+  Full-stack development of in-house clinical web applications. Since 2012, contributed to the development of
   the Clinical Portal — a patient information system with 3,500+ daily user sessions across
   hospitals and GP practices in two regions. Integrates with patient administration, document
   store, lab reports, national emergency care summary, regional demographics, and GP practice
