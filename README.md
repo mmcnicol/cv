@@ -9,6 +9,7 @@
 | | REST/JSON, SOAP/XML | gRPC, Hibernate, RabbitMQ, Kafka, DataGrid |
 | | SQL, Flyway, Oracle, SQL Server | MySQL, Mongodb |
 | Client-side  | Javascript, HTML, CSS | React, jQuery |
+| AI | | Claude Code |
 | Cloud | | AWS EC2 |
 | Test Automation | JUnit, Selenium | TDD, BDD, Cypress, k6 |
 | Development/Build Environment Automation | Docker | Kubernetes |
