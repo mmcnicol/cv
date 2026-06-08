@@ -6,14 +6,14 @@
 | | Proficient | Has Knowledge Of |
 | --- | --- | --- |
 | Server-side  | Java, Java EE, JBOSS EAP | Golang |
-| | REST/JSON, SOAP/XML | Hibernate, RabbitMQ, Kafka, DataGrid |
+| | REST/JSON, SOAP/XML | gRPC, Hibernate, RabbitMQ, Kafka, DataGrid |
 | | SQL, Flyway, Oracle, SQL Server | MySQL, Mongodb |
-| Client-side  | Javascript, jQuery, HTML, CSS | React |
+| Client-side  | Javascript, HTML, CSS | React, jQuery |
 | Cloud | | AWS EC2 |
 | Test Automation | JUnit, Selenium | TDD, BDD, Cypress, k6 |
 | Development/Build Environment Automation | Docker | Kubernetes |
 | Build Automation | Jenkins | |
-| Development Tools | IntelliJ, Gitlab, Bitbucket, Git, Subversion, Maven, Nexus, SonarCloud | Github, npm |
+| Development Tools | IntelliJ, Bitbucket, Git, Maven, Nexus, SonarCloud | Github, Gitlab, npm, Subversion |
 | Team Collaboration | Microsoft Teams, Jira, Confluence, SCRUM | Agile, Kanban |
 | Operating Systems | Windows, Unix/Linux | |
 
